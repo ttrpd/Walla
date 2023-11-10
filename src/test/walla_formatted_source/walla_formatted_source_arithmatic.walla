@@ -1,0 +1,13 @@
+under foot                                  # 3         output
+    deliberating                            # 5         sub
+        impatiently                         # 4         add
+            ants                            # 1         convert_to_number
+                say "hello"                 # 1-2       10
+            then                            # 1         convert_to_number
+                say "goodby"                # 1-2       10
+        moving along                        # 4         add
+            now                             # 1         convert_to_number
+                underground and under foot  # 3-1-2-1   1101
+            gone                            # 1         convert_to_number
+                once again                  # 1-2       10
+# print((2+2) - (13+2))

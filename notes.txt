@@ -1,0 +1,8 @@
+TypeScript Syllable Library:
+https://www.npmjs.com/package/syllable
+
+New Language Support Tutorial:
+https://www.codemag.com/article/1809051/Writing-Your-Own-Debugger-and-Language-Extensions-with-Visual-Studio-Code
+
+Other useful articles:
+https://code.visualstudio.com/api/language-extensions/language-server-extension-guide

@@ -1,0 +1,12 @@
+print                           3
+    sub                         5
+        add                     4
+            convert_to_number   1
+                hello world     .
+            convert_to_number   1
+                goodbye world   .
+        add                     4
+            convert_to_number   1
+                become whole    .
+            convert_to_number   1
+                tree party      .
