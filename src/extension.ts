@@ -13,6 +13,7 @@ vscode.languages.registerHoverProvider("walla", {
         };
     }
 });
+
 export function activate(context: vscode.ExtensionContext) {
     vscode.window.showInformationMessage("Walla extension activated");
 	let formatDisposable = vscode.commands.registerCommand('walla.format', () => {
